@@ -1,5 +1,5 @@
 # 접속 주소
-# http://bit.ly/2GDzc3R
+# http://bit.ly/2GToKpl
 
 # 파일 다운로드 방법
 
