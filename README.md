@@ -26,6 +26,7 @@
 <b>R download</b>: https://cran.r-project.org <br>
 <b>RStudio download</b>: https://www.rstudio.com/products/rstudio/download/ <br>
 <b>Kaggle</b>: https://kaggle.com <br>
+<b>ggexts</b>: https://www.ggplot2-exts.org <br>
 <br>
 
 #### 책
