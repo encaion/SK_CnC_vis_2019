@@ -1,4 +1,4 @@
-# [asdf](https://bit.ly/Multi_RC)
+# [bit.ly/sire2023](https://bit.ly/sire2023)
 
 # 파일 다운로드 방법
 
